@@ -9,3 +9,8 @@ Recently we have made a stock market value predicting model and this  very profi
 
 Any way hope that if you are reading this documentation to the end then we hope that you will be 
 Stay forever with us helping in builting new project and to get new project ideas.
+
+
+Team Members :::--->>>
+______________________:
+  1)Shubham
